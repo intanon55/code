@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Edit",
+    "path": "/Edit",
+    "component": "D:\\\\nuxt-register\\\\pages\\\\Edit\\\\index.vue",
+    "chunkName": "pages/Edit/index"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "D:\\\\nuxt-register\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "D:\\\\nuxt-register\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index"
+  },
+  {
+    "name": "register-done",
+    "path": "/register/done",
+    "component": "D:\\\\nuxt-register\\\\pages\\\\register\\\\done.vue",
+    "chunkName": "pages/register/done"
+  },
+  {
+    "name": "register-step2",
+    "path": "/register/step2",
+    "component": "D:\\\\nuxt-register\\\\pages\\\\register\\\\step2.vue",
+    "chunkName": "pages/register/step2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\nuxt-register\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

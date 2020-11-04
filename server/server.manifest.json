@@ -1,0 +1,21 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/Edit/index.js": "pages/Edit/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/inspire.js": "pages/inspire.js",
+    "pages/register/done.js": "pages/register/done.js",
+    "pages/register/index.js": "pages/register/index.js",
+    "pages/register/step2.js": "pages/register/step2.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/Edit/index.js": "pages/Edit/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/inspire.js": "pages/inspire.js.map",
+    "pages/register/done.js": "pages/register/done.js.map",
+    "pages/register/index.js": "pages/register/index.js.map",
+    "pages/register/step2.js": "pages/register/step2.js.map",
+    "server.js": "server.js.map"
+  }
+}
